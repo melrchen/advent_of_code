@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/melanie/code/advent_of_code/2024/day1'
+relocations:     []
+...
